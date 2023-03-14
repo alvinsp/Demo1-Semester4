@@ -30,7 +30,7 @@ public class Segitiga<T> {
         int pilih;
         boolean kondisi = true;
         while (kondisi) {
-            System.out.println("=== HITUNG LUAS SEGITIGA ===\n");
+            System.out.println("\n=== HITUNG LUAS SEGITIGA ===\n");
             System.out.println("Mau menampilkan hasil luas dalam bentuk? ");
             System.out.println("1. Hasil to Integer");
             System.out.println("2. Hasil to Double");
